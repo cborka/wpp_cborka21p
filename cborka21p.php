@@ -1,5 +1,6 @@
 <?php
 /**
+ * Plugin Name:       cborka21p
  * Created by PhpStorm.
  * User: bor
  * Date: 07.09.2021
